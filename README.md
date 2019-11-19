@@ -1,4 +1,4 @@
-Input 0 Otomatis dan Isi (Only Next)
+# Input 0 Otomatis dan Isi (Only Next)
 Linked List Application with only Next Pointer.
 
 The last data will be linked with the first data so it will make circular linked list.
